@@ -8,6 +8,7 @@ QUOTES = [
     "Practice makes progress.",
     "Small steps every day lead to big results.",
     "Mistakes are proof that you are trying.",
+    "Every expert was once a beginner.",
 ]
 
 @app.route("/quote")
