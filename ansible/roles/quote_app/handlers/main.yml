@@ -1,0 +1,5 @@
+---
+- name: Restart quote-api
+  ansible.builtin.systemd:
+    name: quote-api
+    state: restarted
